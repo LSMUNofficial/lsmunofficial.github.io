@@ -1,7 +1,9 @@
 # 麓山国际实验学校模拟联合国社团官方网站
 
 **[主页](https://www.lsmun.club/)
-   [最新活动](https://www.lsmun.club/latest-activities)**
+   [关于我们](https://www.lsmun.club/about)
+   [最新活动](https://www.lsmun.club/latest-activities)
+   [主新闻中心](https://www.lsmun.club/news)**
    更多栏目正在编辑中…
  
 这里是麓山模联，欢迎来到我们的官方网站。
@@ -39,7 +41,7 @@ We are looking forward to your coming!
 *(There may be Egyptian Oranges at the conference!)*
 
 
+  
 
 
-
-[info-README](https://www.lsmun.club/README.md)
+[about this page/for contributors](https://www.lsmun.club/README.md)
