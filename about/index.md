@@ -6,7 +6,7 @@
 
 ![LSMUN社徽.jpg](http://wx3.sinaimg.cn/mw690/0060lm7Tly1fr4419bq6kj30io0dat98.jpg)
 
-![LSMUN.jpg](LSMUN.jpg)
+![LSMUN.jpg](LSMUN社徽.jpg)
 
 
 **有加入意向请加入LSMUN2018群：780580626.**
