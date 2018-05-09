@@ -1,4 +1,4 @@
-# PragmatistZ.github.io
+# LSMUNofficial.github.io
 
 LSMUN official website
 
