@@ -1,5 +1,3 @@
-# 麓山国际实验学校模拟联合国社团官方网站
-
 **[主页](https://www.lsmun.club/)
    [关于我们](https://www.lsmun.club/about)
    [最新活动](https://www.lsmun.club/latest-activities)
