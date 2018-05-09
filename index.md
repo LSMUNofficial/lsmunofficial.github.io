@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# 麓山国际实验学校模拟联合国社团官方网站
 
-You can use the [editor on GitHub](https://github.com/LSMUNofficial/lsmunofficial.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**[主页](https://www.lsmun.club/)
+   [最新活动](https://www.lsmun.club/latest-activities)**
+   更多栏目正在编辑中…
+ 
+这里是麓山模联，欢迎来到我们的官方网站。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+网站正在完善中……
 
-### Markdown
+更多精彩，敬请期待。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![LSMUN社徽.jpg](http://wx3.sinaimg.cn/mw690/0060lm7Tly1fr4419bq6kj30io0dat98.jpg)
 
-```markdown
-Syntax highlighted code block
+## 招新信息
 
-# Header 1
-## Header 2
-### Header 3
+麓山模联，欢迎你的加入！
 
-- Bulleted
-- List
+**有加入意向请加入LSMUN2018群：780580626.**
 
-1. Numbered
-2. List
+![LSMUN2018群二维码.jpg](http://wx2.sinaimg.cn/mw690/0060lm7Tly1fr443iannjj30f00kkta9.jpg)
 
-**Bold** and _Italic_ and `Code` text
+**LSMUN官方QQ-主新闻中心：3453784385.**
 
-[Link](url) and ![Image](src)
-```
+## 近期活动
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 5月10日星期四中午：常规社团活动（直升营参加）：辩论——隐私
 
-### Jekyll Themes
+如果某个网站要求你提供你的个人信息，你会提供吗？
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LSMUNofficial/lsmunofficial.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+如果你的父母要看你的日记，你会拿出日记本吗？
 
-### Support or Contact
+**正方：我！拒！绝！**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**反方：好吧，给你。**
+
+We are looking forward to your coming!
+
+*(There may be Egyptian Oranges at the conference!)*
+
+
+
+
+
+[info-README](https://www.lsmun.club/README.md)
