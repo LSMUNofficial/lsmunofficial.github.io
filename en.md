@@ -6,7 +6,7 @@
  
 Here is LSMUN, welcome to our official website.
 
-###Latest Notice: NONE.
+### Latest Notice: NONE.
 
 This site is still being built.
 
