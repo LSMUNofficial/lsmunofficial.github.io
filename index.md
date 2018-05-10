@@ -1,8 +1,8 @@
-**[主页](https://www.lsmun.club/)
-   [关于我们](https://www.lsmun.club/about)
-   [最新活动](https://www.lsmun.club/latest-activities)
-   [主新闻中心](https://www.lsmun.club/news)
-   [English Version](/en)**
+**[主页](https://www.lsmun.club/) |
+   [关于我们](https://www.lsmun.club/about) |
+   [最新活动](https://www.lsmun.club/latest-activities) |
+   [主新闻中心](https://www.lsmun.club/news) |
+   [English Version](/en)  |**
    更多栏目正在编辑中…
  
 这里是麓山模联，欢迎来到我们的官方网站。
