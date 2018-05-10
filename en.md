@@ -1,7 +1,8 @@
-**[Home(简体中文)  ](https://www.lsmun.club/)
-   [About Us  ](/about/en)
-   [Latest Activities  ](https://www.lsmun.club/latest-activities/en)
-   [News Center  ](https://www.lsmun.club/news/en)**
+**[Home(简体中文)  ](https://www.lsmun.club/) |
+   [Home(English)](https://www.lsmun.club/en) |
+   [About Us ](/about/en) |
+   [Latest Activities  ](https://www.lsmun.club/latest-activities/en) |
+   [News Center  ](https://www.lsmun.club/news/en)|**
    More column is coming soon…
  
 Here is LSMUN, welcome to our official website.
