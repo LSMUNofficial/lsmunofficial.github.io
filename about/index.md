@@ -2,7 +2,7 @@
 
 # 关于我们
 
-![LSMUN.jpg](LSMUN.jpg)
+![LSMUN.jpg](https://www.lsmun.club/about/LSMUN.jpg)
 
 麓山国际实验学校模拟联合国社团（Lushan International Experimental School Model United Nations, LSMUN）成立于2010年。作为一个校直属的社员自治社团，LSMUN内部洋溢着自由而严谨的学术氛围以及温馨和谐的人际关系。一直以来，LSMUN都是校内学术性最强的社团，社员们自主、自由地进行学术研究与交流，积极地参与会议，展现出一个既严肃又活泼的社团形象。
 
@@ -12,11 +12,11 @@
 
 LSMUN由社长领导，下设社长助理（临）及秘书处、学术部、外联部三个机构，分别由秘书长、学术部部长、外联部部长领导。
 
-![LSMUN组织结构图](LSMUN组织结构图.jpg)
+![LSMUN组织结构图](https://www.lsmun.club/about/LSMUN组织结构图.jpg)
 
 ***
 
-![LSMUN2017-18社领导层合影](LSMUN2017-18社领导层合影.jpg)
+![LSMUN2017-18社领导层合影](https://www.lsmun.club/about/LSMUN2017-18社领导层合影.jpg)
 
 > 现任2018-19届社领导层与2017-18届领导层合影
 
@@ -34,7 +34,7 @@ LSMUN由社长领导，下设社长助理（临）及秘书处、学术部、外
 
 ### 外联部 | 部长：段启航 G1710
 
-
+---
 
 ## 奖项
 
