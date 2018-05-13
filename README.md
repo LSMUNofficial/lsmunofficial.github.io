@@ -4,7 +4,7 @@
 
 ### Editor: LSMUN AEO PHY, LSMUN AEO ZYZ, LSMUN Secretary-General YX.
 
-Now using **Markdown.
+Now using **Markdown**.
 
 Focus on our recent/latest activities, please visit Markdown version.
 
