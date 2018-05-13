@@ -1,17 +1,21 @@
 # LSMUNofficial.github.io
 
-LSMUN official website
+## LSMUN official website
 
-*Just as the topic.*
+### Editor: LSMUN AEO PHY, LSMUN AEO ZYZ, LSMUN Secretary-General YX.
 
-Editor: LSMUN AEO PHY, LSMUN AEO ZYZ, LSMUN Secretary-General YX.
+Now using **Markdown.
 
-Now using Markdown.
+Focus on our recent/latest activities, please visit Markdown version.
 
-HTML/YAML vers. coming soon.
+2 versions below may not be updated on time, sorry.
 
-English vers. is still being made.
+HTML version is being built still.
 
-Contributors please contact QQ 3453784385.
+English version *(sorry, only Markdown)* is still being made.
+
+Contributors please contact QQ 3453784385/ email lsmun@outlook.com.
+
+A good-looking HTML/CSS theme/model is wanted.
 
 Thank you!
