@@ -16,7 +16,7 @@
 
 [点击下载电子版(BG file:第一次会议（韩朝）.docx)>>](https://www.lsmun.club/latest-activities/20180517朝韩/第一次会议（韩朝）.docx)
 
-**[点击查看活动详情与会议指南>>](https://www.lsmun.club/latest-activities/180517)**
+**[点击查看活动详情与会议指南>>](https://www.lsmun.club/latest-activities/20180517朝韩)**
 
 ---
 
