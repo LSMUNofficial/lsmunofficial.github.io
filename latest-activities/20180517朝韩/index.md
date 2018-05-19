@@ -10,15 +10,15 @@
 活动精彩照片
 ——————
 
-![0517活动照片P1.jpg](https://www.lsmun.club/latest-activities/20180517韩朝/photos/P80517-132340.jpg)
+![0517活动照片P1.jpg](https://www.lsmun.club/latest-activities/20180517朝韩/photos/P80517-132340.jpg)
 
-![0517活动照片P2.jpg](https://www.lsmun.club/latest-activities/20180517韩朝/photos/P80517-132509.jpg)
+![0517活动照片P2.jpg](https://www.lsmun.club/latest-activities/20180517朝韩/photos/P80517-132509.jpg)
 
-![0517活动照片P3.jpg](https://www.lsmun.club/latest-activities/20180517韩朝/photos/P80517-132541.jpg)
+![0517活动照片P3.jpg](https://www.lsmun.club/latest-activities/20180517朝韩/photos/P80517-132541.jpg)
 
-![0517活动照片P4.jpg](https://www.lsmun.club/latest-activities/20180517韩朝/photos/P80517-133918.jpg)
+![0517活动照片P4.jpg](https://www.lsmun.club/latest-activities/20180517朝韩/photos/P80517-133918.jpg)
 
-![0517活动照片P5.jpg](https://www.lsmun.club/latest-activities/20180517韩朝/photos/P80517-134413.jpg)
+![0517活动照片P5.jpg](https://www.lsmun.club/latest-activities/20180517朝韩/photos/P80517-134413.jpg)
 
 
 ## 主席团关于议事规则的阐述
