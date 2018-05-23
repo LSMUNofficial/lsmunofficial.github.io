@@ -14,6 +14,8 @@
 
 [神佬backup](http://www.cnblogs.com/backupnoob01/)
 
+[巨傅少](https://www.cnblogs.com/fushao2yyj/)
+
 ## 校内
 
 [麓山官网](http://www.cjedu.cn)
