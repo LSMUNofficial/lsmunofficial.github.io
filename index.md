@@ -12,17 +12,15 @@
 
 ## 通知
 
-### 周四（5月17日）中午举行了活动，主题为关于朝鲜半岛无核化及构建半岛永久和平的朝韩谈判。
+### 如果有任何学术性疑问，欢迎向我们或二营王弘毅提问。（[名单>>](https://www.lsmun.club/about)）
 
-[点击下载电子版(BG file:第一次会议（韩朝）.docx)>>](https://www.lsmun.club/latest-activities/20180517朝韩/第一次会议（韩朝）.docx)
+### 下周四（5月31日）将举行英文会议。
 
-**[点击查看活动精彩照片与会议指南>>](https://www.lsmun.club/latest-activities/20180517朝韩)**
+### 周四（5月24日）中午举行了活动，模拟联合国大会第一委员会-裁军与国际安全委员会（DISEC），议题为核裁军。
 
-### 周四（5月24日）中午将继续上周活动（直升营新社员参加，不会耽误下午出行安排），模拟联合国大会第一委员会-裁军与国际安全委员会，议题为核裁军。背景文件纸质版**（！更新版！）**将于近期由学术部下发。
+[点击下载BG电子版>>](https://www,lsmun.club/latest-activities/20180524DISEC/中文场背景文件.docx)
 
-**[点击下载BG电子版>>](https://www,lsmun.club/latest-activities/20180524DISEC/中文场背景文件.docx)
-
-[点击查看活动详情与会议指南>>](https://www.lsmun.club/latest-activities)**
+[点击查看活动详情>>](https://www.lsmun.club/latest-activities)
 
 ---
 
@@ -48,9 +46,10 @@
 
 ## 近期活动
 
+### 5月31日星期四中午：常规社团活动：DISEC(English)
+
 ### 5月24日星期四中午：常规社团活动：模拟DISEC
 
 
 
 [about this page/for contributors](https://www.lsmun.club/README.md)
-
