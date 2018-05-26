@@ -2,6 +2,20 @@
 
 # 最新活动
 
+## 2018.5.31 THU WTO
+
+### TOPIC: Free Trade vs. Trade Protectionism
+
+### Dais: As usual.
+
+#### Delegates: As usual. Welcome to join us. If you'd like to join us but aren't a member of us, please contact Camp 2 Wang Hongyi before 0:00, May 30.
+
+#### Countries: As usual. Delegates who may not be able to attend please contact Wang in advance.
+
+[BG Download>>](/20180531WTO/第三次会议（贸易保护主义）.docx)
+
+---
+
 ## 2018.5.24 THU 朝核问题国际会议
 
 ### 主题：延续上一次
