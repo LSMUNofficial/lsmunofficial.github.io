@@ -16,7 +16,7 @@
 
 ### 下周四（5月31日）将举行英文会议，模拟世界贸易组织，议题为自由贸易与贸易保护。
 
-[点击下载BG电子版>>](https://www,lsmun.club/latest-activities/20180531WTO/第三次会议（贸易保护主义）.docx)
+[点击下载BG电子版>>](https://www.lsmun.club/latest-activities/20180531WTO/第三次会议（贸易保护主义）.docx)
 
 ### 周四（5月24日）中午举行了活动，模拟联合国大会第一委员会-裁军与国际安全委员会（DISEC），议题为核裁军。
 
