@@ -14,13 +14,15 @@
 
 ### 如果有任何学术性疑问，欢迎向我们或二营王弘毅提问。（[名单>>](https://www.lsmun.club/about)）
 
-### 下周四（5月31日）将举行英文会议。
+### 下周四（5月31日）将举行英文会议，模拟世界贸易组织，议题为自由贸易与贸易保护。
+
+[点击下载BG电子版>>](https://www,lsmun.club/latest-activities/20180531WTO/第三次会议（贸易保护主义）.docx)
 
 ### 周四（5月24日）中午举行了活动，模拟联合国大会第一委员会-裁军与国际安全委员会（DISEC），议题为核裁军。
 
 [点击下载BG电子版>>](https://www,lsmun.club/latest-activities/20180524DISEC/中文场背景文件.docx)
 
-[点击查看活动详情>>](https://www.lsmun.club/latest-activities)
+#### [点击查看活动详情>>](https://www.lsmun.club/latest-activities)
 
 ---
 
@@ -46,7 +48,7 @@
 
 ## 近期活动
 
-### 5月31日星期四中午：常规社团活动：DISEC(English)
+### 5月31日星期四中午：常规社团活动：WTO: Free Trade vs. Trade Protectionism (English)
 
 ### 5月24日星期四中午：常规社团活动：模拟DISEC
 
