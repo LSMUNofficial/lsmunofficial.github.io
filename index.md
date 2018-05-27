@@ -20,7 +20,7 @@
 
 ### 周四（5月24日）中午举行了活动，模拟联合国大会第一委员会-裁军与国际安全委员会（DISEC），议题为核裁军。
 
-[点击下载BG电子版>>](https://www,lsmun.club/latest-activities/20180524DISEC/中文场背景文件.docx)
+[点击下载BG电子版>>](https://www.lsmun.club/latest-activities/20180524DISEC/中文场背景文件.docx)
 
 #### [点击查看活动详情>>](https://www.lsmun.club/latest-activities)
 
