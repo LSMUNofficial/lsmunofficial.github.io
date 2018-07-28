@@ -10,17 +10,17 @@
 
 ---
 
-## 通知
+## 头条
 
 ### 如果有任何学术性疑问，欢迎向我们或二营王弘毅提问。（[名单>>](https://www.lsmun.club/about)）
 
-### 下周四（5月31日）将举行英文会议，模拟世界贸易组织，议题为自由贸易与贸易保护。
+## 为LSMUN WEMUN EXPO 2018代表团加油！
 
-[点击下载BG电子版>>](https://www.lsmun.club/latest-activities/20180531WTO/第三次会议（贸易保护主义）.docx)
+*（可能会在本站发布照片，敬请期待！）*
 
-### 周四（5月24日）中午举行了活动，模拟联合国大会第一委员会-裁军与国际安全委员会（DISEC），议题为核裁军。
+## 为LSMUN NHSMUN CHINA 2018参会代表王弘毅加油！
 
-[点击下载BG电子版>>](https://www.lsmun.club/latest-activities/20180524DISEC/中文场背景文件.docx)
+### 获取我们的参会动态，请关注我们的官方QQ (3453784385) 及[空间>>](https://user.qzone.qq.com/3453784385/infocenter) 和各位参会代表的个人社交媒体！
 
 #### [点击查看活动详情>>](https://www.lsmun.club/latest-activities)
 
