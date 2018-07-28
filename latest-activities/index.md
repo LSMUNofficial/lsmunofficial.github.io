@@ -2,6 +2,20 @@
 
 # 最新活动
 
+## 2018.7.28-31 NHSMUN CHINA 2018
+
+### @广州白云国际会议中心
+
+### 参会代表: 王弘毅
+
+### 委员会与国家: 中文场 联合国人权理事会 尼泊尔
+
+### 议题: LGBT群体的权益保护
+
+管理猿在此为帅气的王弘毅同学疯狂打电话!
+
+![WHY](https://www.lsmun.club/latest-activities/201807NHSMUN/WHY.jpg)
+
 ## 2018.5.31 THU WTO
 
 ### TOPIC: Free Trade vs. Trade Protectionism
