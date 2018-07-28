@@ -46,11 +46,6 @@
 
 ![LSMUNQQ.jpg](https://www.lsmun.club/about/LSMUNQQ.jpg)
 
-## 近期活动
-
-### 5月31日星期四中午：常规社团活动：WTO: Free Trade vs. Trade Protectionism (English)
-
-### 5月24日星期四中午：常规社团活动：模拟DISEC
 
 
 
