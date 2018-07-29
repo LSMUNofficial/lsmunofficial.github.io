@@ -27,11 +27,13 @@
 
 ### 我们的集合地点：长沙市芙蓉区长沙火车站 肯德基（长沙站）
 
-![AL](https://www.lsmun.club/latest-activities/201808EXPO/AL.png)
+![AL](https://www.lsmun.club/latest-activities/201808EXPO/AL.jpg)
 
 ---
 
 ### 前来方式
+
+---
 
 #### 地铁：
 
@@ -49,7 +51,7 @@
 
 驾车至火车站附近，按下图路径驾驶：（红色为自驾，橙色为出租车，相对位置正确）
 
-![LA](https://www.lsmun.club/latest-activities/201808EXPO/LA.png)
+![LA](https://www.lsmun.club/latest-activities/201808EXPO/LA.jpg)
 
 社会车辆停车场入口：
 
@@ -67,6 +69,6 @@
 
 ![SCX](https://www.lsmun.club/latest-activities/201808EXPO/SCX.jpg)
 
-~**#EOF**~
+**#EOF**
 
 ## 谢谢阅读！
