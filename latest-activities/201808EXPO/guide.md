@@ -44,6 +44,6 @@
 
 ![SCX](https://www.lsmun.club/latest-activities/201808EXPO/SCX.jpg)
 
-** #EOF **
+**#EOF**
 
 ## 谢谢阅读！
